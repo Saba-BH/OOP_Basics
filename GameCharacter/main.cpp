@@ -11,8 +11,15 @@ int main()
 
     Character normal("Mario", 80, 50);
     normal.addSkills("Jump", 5);
+    normal.addSkills("Invisible", -5);
+
+    Character noob("Sonic", -8, 1);
+    Character noob2("Mega Man", 50, -6);
+
     Bazi.addCharacter(hero);
     Bazi.addCharacter(normal);
+    Bazi.addCharacter(noob);
+    Bazi.addCharacter(noob2);
     Bazi.PrintChar();
     return 0;
 }

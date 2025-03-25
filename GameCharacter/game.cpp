@@ -1,4 +1,5 @@
 #include "game.hpp"
+#include <vector>
 #include <iostream>
 using namespace std;
 void Game::addCharacter(Character newChar)

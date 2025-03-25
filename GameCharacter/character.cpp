@@ -13,7 +13,6 @@ string Character::getName()
 {
     return name;
 }
-
 Character::Character(string charName, int charHealth, int charPower)
 {
     name = charName;
