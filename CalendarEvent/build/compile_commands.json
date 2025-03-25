@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/UP-09185003530/OOP_Basics/CalendarEvent/build",
+  "command": "C:\\TDM-GCC-32\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\Calendar.dir\\main.cpp.obj -c C:\\Users\\UP-09185003530\\OOP_Basics\\CalendarEvent\\main.cpp",
+  "file": "C:/Users/UP-09185003530/OOP_Basics/CalendarEvent/main.cpp",
+  "output": "CMakeFiles/Calendar.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/UP-09185003530/OOP_Basics/CalendarEvent/build",
+  "command": "C:\\TDM-GCC-32\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\Calendar.dir\\calender.cpp.obj -c C:\\Users\\UP-09185003530\\OOP_Basics\\CalendarEvent\\calender.cpp",
+  "file": "C:/Users/UP-09185003530/OOP_Basics/CalendarEvent/calender.cpp",
+  "output": "CMakeFiles/Calendar.dir/calender.cpp.obj"
+},
+{
+  "directory": "C:/Users/UP-09185003530/OOP_Basics/CalendarEvent/build",
+  "command": "C:\\TDM-GCC-32\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\Calendar.dir\\event.cpp.obj -c C:\\Users\\UP-09185003530\\OOP_Basics\\CalendarEvent\\event.cpp",
+  "file": "C:/Users/UP-09185003530/OOP_Basics/CalendarEvent/event.cpp",
+  "output": "CMakeFiles/Calendar.dir/event.cpp.obj"
+}
+]

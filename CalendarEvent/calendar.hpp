@@ -5,6 +5,7 @@
 #include "event.hpp"
 #include <vector>
 using namespace std;
+
 class Calendar {
     private:
     vector<Event> events;
