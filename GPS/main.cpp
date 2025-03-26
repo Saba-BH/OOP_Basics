@@ -20,7 +20,7 @@ int main()
             cout << "Enter longitude(-180 to 180): ";
             cin >> longi;
             Locations.emplace_back(lati, longi);
-                }
+        }
         catch (const invalid_argument &e)
         {
             cout << e.what() << endl;

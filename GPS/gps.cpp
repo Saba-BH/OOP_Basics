@@ -2,7 +2,9 @@
 #include <iostream>
 #include <stdexcept>
 using namespace std;
+
 Gps *Gps::lastLoation = nullptr;
+
 Gps::Gps(double lat, double lon)
 {
     if (lat > 90 || lat < -90 || lon > 180 || lon < -180)
