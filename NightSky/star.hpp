@@ -11,6 +11,7 @@ class Star{
     int getX() const;
     int getY() const;
     double getBrightness() const;
+    void print() const;
     
 
 };

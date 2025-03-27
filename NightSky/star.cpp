@@ -12,3 +12,6 @@ int Star::getY() const{
 double Star::getBrightness() const{
     return brightness ;
 }
+void Star::print() const{
+    cout <<"Star at (" << x <<", " <<y << ") with brightness " <<brightness << endl;
+}
