@@ -3,16 +3,15 @@
 #include "star.hpp"
 #include <vector>
 using namespace std;
-class Sky{
-    private:
+class Sky
+{
+private:
     int width, height;
     vector<Star> stars;
 
-    public:
-    Sky(int , int);
-    void addStar(const Star& star);
-    void displayStar() const ;
-
-
+public:
+    Sky(int, int);
+    void addStar(const Star &star);
+    void displayStar() const;
 };
 #endif
