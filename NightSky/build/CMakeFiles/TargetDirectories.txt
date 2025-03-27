@@ -1,0 +1,3 @@
+C:/Users/UP-09185003530/OOP_Basics/NightSky/build/CMakeFiles/nightSky.dir
+C:/Users/UP-09185003530/OOP_Basics/NightSky/build/CMakeFiles/edit_cache.dir
+C:/Users/UP-09185003530/OOP_Basics/NightSky/build/CMakeFiles/rebuild_cache.dir

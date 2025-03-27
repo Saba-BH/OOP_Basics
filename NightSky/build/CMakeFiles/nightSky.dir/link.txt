@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\nightSky.dir/objects.a
+C:\TDM-GCC-32\bin\ar.exe qc CMakeFiles\nightSky.dir/objects.a @CMakeFiles\nightSky.dir\objects1.rsp
+C:\TDM-GCC-32\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\nightSky.dir/objects.a -Wl,--no-whole-archive -o nightSky.exe -Wl,--out-implib,libnightSky.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\nightSky.dir\linkLibs.rsp

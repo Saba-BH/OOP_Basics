@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/UP-09185003530/OOP_Basics/NightSky/build",
+  "command": "C:\\TDM-GCC-32\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\nightSky.dir\\main.cpp.obj -c C:\\Users\\UP-09185003530\\OOP_Basics\\NightSky\\main.cpp",
+  "file": "C:/Users/UP-09185003530/OOP_Basics/NightSky/main.cpp",
+  "output": "CMakeFiles/nightSky.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/UP-09185003530/OOP_Basics/NightSky/build",
+  "command": "C:\\TDM-GCC-32\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\nightSky.dir\\star.cpp.obj -c C:\\Users\\UP-09185003530\\OOP_Basics\\NightSky\\star.cpp",
+  "file": "C:/Users/UP-09185003530/OOP_Basics/NightSky/star.cpp",
+  "output": "CMakeFiles/nightSky.dir/star.cpp.obj"
+},
+{
+  "directory": "C:/Users/UP-09185003530/OOP_Basics/NightSky/build",
+  "command": "C:\\TDM-GCC-32\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\nightSky.dir\\sky.cpp.obj -c C:\\Users\\UP-09185003530\\OOP_Basics\\NightSky\\sky.cpp",
+  "file": "C:/Users/UP-09185003530/OOP_Basics/NightSky/sky.cpp",
+  "output": "CMakeFiles/nightSky.dir/sky.cpp.obj"
+}
+]
